@@ -1,0 +1,11 @@
+h2{
+    color: red;
+}
+body{
+    background-color: salmon;
+}
+#identity{
+    background-color: rgb(255, 0, 0, 0);
+    border: none;
+    border-bottom: 3px solid white;
+}
