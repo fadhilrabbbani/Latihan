@@ -1,0 +1,38 @@
+h2{
+    color: red;
+}
+body{
+    background-color: salmon;
+}
+#identity{
+    background-color: rgb(255, 0, 0, 0);
+    border: none;
+    border-bottom: 3px solid white;
+    color: white;
+}
+#identity::-webkit-input-placeholder{
+    color: white;
+}
+#submit{
+    border: 2px;
+    border-radius: 6px;
+    margin-top: 20px;
+    
+}
+.formlogin{
+    max-width: 400px;
+    height: 50vh;
+    background-color: rgb(105, 89, 89);
+    border: 2px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 7px 4px gray;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+#coba::placeholder{
+    color: red;
+}
